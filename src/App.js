@@ -10,7 +10,7 @@ function Square() {
 
   return (
     <button
-      className="square"s
+      className="square"
       onClick={handleClick}
     >
       {value}
